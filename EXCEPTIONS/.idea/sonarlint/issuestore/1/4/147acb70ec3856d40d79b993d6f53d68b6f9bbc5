@@ -1,0 +1,7 @@
+
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ññöà8€û¥Òþ0
+Y
+java:S1854"<Remove this useless assignment to local variable "readFile".(ññöà8û¥Òþ0
+J
+java:S1481"-Remove this unused "readFile" local variable.(ññöà8£û¥Òþ0
