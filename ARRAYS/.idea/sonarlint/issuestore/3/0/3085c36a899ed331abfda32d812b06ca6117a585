@@ -1,0 +1,19 @@
+
+a
+java:S1854"?Remove this useless assignment to local variable "doubleValue".(ºˆ¨şÿÿÿÿ8Î•ÿ¿ş0
+Y
+java:S1854
+"<Remove this useless assignment to local variable "intValue".(¼…É8Ï•ÿ¿ş0
+[
+java:S1854	">Remove this useless assignment to local variable "shortValue".(÷·ı 8Ğ•ÿ¿ş0
+_
+java:S1854"=Remove this useless assignment to local variable "byteValue".(Ì¼ûÿÿÿÿ8Ğ•ÿ¿ş0
+P
+java:S1481".Remove this unused "byteValue" local variable.(Ì¼ûÿÿÿÿ8×•ÿ¿ş0
+L
+java:S1481	"/Remove this unused "shortValue" local variable.(÷·ı 8Ø•ÿ¿ş0
+R
+java:S1481"0Remove this unused "doubleValue" local variable.(ºˆ¨şÿÿÿÿ8Ú•ÿ¿ş0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(îŠ«äşÿÿÿÿ8ß•ÿ¿ş0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷³Ï8ú•ÿ¿ş0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì÷³Ï8û•ÿ¿ş0
